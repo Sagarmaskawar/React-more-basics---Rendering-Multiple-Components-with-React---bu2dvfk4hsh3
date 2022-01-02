@@ -2,13 +2,12 @@ import React, {Component, useState} from "react";
 import '../styles/App.css';
 
 const App = () => {
-      const project-name=Amazon_Clone;
-      const project-discription= I Love Amazon Thats Why.
+     
       
   return (
     <div id="main">
-         <div data-ns-test="project-name">{project-name}</div>
-         <div data-ns-test="project-discription">{project-discription}</div>
+         <div data-ns-test="project-name">{Amazon Clone}</div>
+         <div data-ns-test="project-discription">{I want to create a Amzon clone.}</div>
          
             
     </div>
