@@ -2,8 +2,8 @@ import React, {Component, useState} from "react";
 import '../styles/App.css';
 
 const App = () => {
-      const [pro, setPro] = useState('Amazon Clone');
-      const[des, setDes]=useState('I want to create a amazon clone');
+      const pro = 'Amazon Clone';
+      const des='I want to create a amazon clone';
       
   return (
     <div id="main">
