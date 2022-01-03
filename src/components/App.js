@@ -2,7 +2,7 @@ import React, {Component, useState} from "react";
 import '../styles/App.css';
 
 const App = () => {
-      const Heding = "Amazon Clone";
+      const Heding ="Amazon Clone";
       const Descriptio="I want to create a amazon clone";
       
   return (
