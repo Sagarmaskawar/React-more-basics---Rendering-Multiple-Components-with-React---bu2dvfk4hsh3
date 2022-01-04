@@ -3,13 +3,13 @@ import '../styles/App.css';
  
 const Heading =()=>{
 return(
-      <h1>Amazon Clone</h1>;
+      <h1>Amazon Clone</h1>
 );
 }
 
 const Description =() =>{
 return(
-      <p>I want to Create an Amazon Clone Because it has a lot of function in it.</p>;
+      <p>I want to Create an Amazon Clone Because it has a lot of function in it.</p>
 )
 }
 const App = () => {
