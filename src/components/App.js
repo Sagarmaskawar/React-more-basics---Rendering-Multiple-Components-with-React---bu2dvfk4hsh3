@@ -18,7 +18,7 @@ const App = () => {
   return (
     <div id="main">
          <h1 data-ns-test="project-name"><Heading/></h1>
-         <p data-ns-test="project-discription"><Description/></p>
+         <p data-ns-test="project-name"><Description/></p>
          
      </div>
 )
