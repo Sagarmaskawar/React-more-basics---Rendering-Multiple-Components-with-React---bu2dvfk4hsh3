@@ -7,18 +7,18 @@ return(
 );
 }
 
-const Description =() =>{
-return(
-      <p>I want to Create an Amazon Clone Because it has a lot of function in it.</p>
-);
-}
+
+
+     
+
+
 const App = () => {
       
       
   return (
     <div id="main">
          <h1 data-ns-test="project-name"><Heading/></h1>
-         <p data-ns-test="project-name"><Description/></p>
+         <p data-ns-test="project-description">this is  </p>
          
      </div>
 )
