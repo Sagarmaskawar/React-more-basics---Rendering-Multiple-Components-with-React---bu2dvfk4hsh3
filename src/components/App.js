@@ -10,7 +10,7 @@ return(
 const Description =() =>{
 return(
       <p>I want to Create an Amazon Clone Because it has a lot of function in it.</p>
-)
+);
 }
 const App = () => {
       
